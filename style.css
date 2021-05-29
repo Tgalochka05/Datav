@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background: 
+    url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/e596708041331.560b644e44541.png);
+}
+nav a{
+    text-decoration: none;
+    background: white;
+    color: white;
+    padding: 5px;
+    margin: 10px 60px 10px 60px;
+    color: black;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+    font-family: comic sans ms;
+}
+main{
+    margin-top: 100px;
+    background: lightblue;
+    border-radius: 30px;
+}
+h1{
+    font-family: comic sans ms;
+    text-align: center;
+}
+footer{
+    margin: 0x;
+}
+p{
+    margin: 0px 30px 0px 30px;
+    font-family: cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background: white;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 5px;
+}
+.data{
+    border: 3px solid orange;
+}
